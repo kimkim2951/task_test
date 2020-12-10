@@ -9,15 +9,10 @@
 </p>
 
 ## :globe_with_meridians: アプリ概要
-
 ## :globe_with_meridians: コンセプト
-
 ## :globe_with_meridians: 機能紹介
-
 ## :globe_with_meridians: 工夫したポイント
-
 ## :globe_with_meridians: 課題や今後実装したい機能
-
 ## :globe_with_meridians: サイトURL紹介
 
 
